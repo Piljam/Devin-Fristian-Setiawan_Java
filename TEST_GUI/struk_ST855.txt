@@ -1,0 +1,10 @@
+Struk ID: ST855
+Kode Sepatu: S002
+Model: memk
+Merk: Skecher
+Warna: biru
+Harga: 180000
+Kuantitas: 1
+Uang Pembayaran: 200000
+Total: 180000
+Thank you for your purchase!
